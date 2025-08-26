@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+	padding:30px;
+}
+.reviews{
+	margin-top:30px;
+	border:1px solid #eaebeb;
+	background-color:white;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:20px
+	height:4vh;
+	width:90%;
+}
+.Author{
+	text-align:right;
+	font-style:italic;
+}
